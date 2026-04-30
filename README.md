@@ -8,9 +8,7 @@ O site apresenta uma vitrine de praias paradisíacas, além de demonstrar concei
 
 ## Preview do Projeto
 
-<p align="center">
-  <img src="<img width="1897" height="868" alt="image" src="https://github.com/user-attachments/assets/49d1f133-2577-43bb-86ec-e80262d50273"/> width="100%">
-</p>
+<img width="1902" height="863" alt="image" src="https://github.com/user-attachments/assets/ac4187d8-fbb0-4fd9-96e1-3bbdae54f367" />
 
 ---
 
